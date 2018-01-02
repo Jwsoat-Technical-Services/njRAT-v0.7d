@@ -1,0 +1,4 @@
+USR: snowballzskype
+PWD: 
+URL: http://skype.com
+
